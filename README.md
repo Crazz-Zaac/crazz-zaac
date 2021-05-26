@@ -28,8 +28,6 @@
 ![Rabin's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazz-zaac&repo=github-readme-stats)](https://github.com/crazz-zaac/github-readme-stats)
-
 
 
 ### How to reach me?
