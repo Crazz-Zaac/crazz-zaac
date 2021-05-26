@@ -32,7 +32,8 @@
 
 ### How to reach me?
 <p align="left">
-<a href="https://www.linkedin.com/in/rabin-bishwokarma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabin-bishwokarma" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Rabin Bishwokarma" href="https://www.linkedin.com/in/rabin-bishwokarma/">
+</p>
 <a href="https://crazz-zaac.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://crazz-zaac.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
