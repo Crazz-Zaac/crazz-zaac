@@ -86,13 +86,14 @@
 </table>
 </p>
 <br>
-<p align="left">
-	
+
+
 ![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
+
+<p align="left">
 
 ![Rabin's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
 </p>
-<br>
 
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=synthwave)
 
