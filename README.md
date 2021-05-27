@@ -17,81 +17,85 @@
 
 
 ### Languages and Tools I Use
-<pr>
+<p>
 <table width="100">
-<tr> 
-	<td align='center' width="190">
-		<a href="https://www.cprogramming.com/" target="_blank"> 
-			<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-			<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-		</a>
-	</td>
-	<td align='center' width="190">
-		<a href="https://www.python.org" target="_blank"> 
-			<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://pytorch.org/" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://git-scm.com/" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://jekyllrb.com/" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
-		</a> 
-	</td>
-</tr>
-<tr>
-	<td align='center' width="190">
-		<a href="https://www.mysql.com/" target="_blank"> 
-			<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://opencv.org/" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-		</a>  
-	</td>
-	<td align='center' width="190">
-		<a href="https://postman.com" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://heroku.com" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://scikit-learn.org/" target="_blank"> 
-			<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-		</a> 
-	</td>
-	<td align='center' width="190">
-		<a href="https://www.tensorflow.org" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-		</a>
-	</td>
-</tr>
-</pr>
+	<tr> 
+		<td align='center' width="190">
+			<a href="https://www.cprogramming.com/" target="_blank"> 
+				<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+				<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+			</a>
+		</td>
+		<td align='center' width="190">
+			<a href="https://www.python.org" target="_blank"> 
+				<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://pytorch.org/" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://git-scm.com/" target="_blank">
+				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://jekyllrb.com/" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
+			</a> 
+		</td>
+	</tr>
+	<tr>
+		<td align='center' width="190">
+			<a href="https://www.mysql.com/" target="_blank"> 
+				<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://opencv.org/" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+			</a>  
+		</td>
+		<td align='center' width="190">
+			<a href="https://postman.com" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://heroku.com" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://scikit-learn.org/" target="_blank"> 
+				<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+			</a> 
+		</td>
+		<td align='center' width="190">
+			<a href="https://www.tensorflow.org" target="_blank"> 
+				<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+			</a>
+		</td>
+	</tr>
+</table>
+</p>
 <br>
 
 ![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
 
 <br>
 
+![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=synthwave)
+
 ![Rabin's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 
 
