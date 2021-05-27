@@ -86,15 +86,16 @@
 </table>
 </p>
 <br>
-
+<p align="left">
+	
 ![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
 
 ![Rabin's Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
+</p>
 <br>
-<p align="left">
 
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=synthwave)
-</p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 
