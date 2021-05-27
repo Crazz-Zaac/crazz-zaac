@@ -17,6 +17,7 @@
 
 
 ### Languages and Tools I Use
+<pr>
 <table width="100">
 <tr> 
 	<td align='center' width="190">
@@ -82,8 +83,7 @@
 		</a>
 	</td>
 </tr>
-</p>
-
+</pr>
 <br>
 
 ![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
