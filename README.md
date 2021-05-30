@@ -90,13 +90,18 @@
 
 ![Rabin's GitHub stats](https://github-readme-stats-iota-teal.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
 
-<p align="left">
-
 ![Rabin's Top languages](https://github-readme-stats-iota-teal.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
-</p>
-
 
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=synthwave)
+
+
+<a href="https://github.com/crazz-zaac/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=crazz-zaac&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/crazz-zaac/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=crazz-zaac&repo=convoychat" />
+</a>
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
