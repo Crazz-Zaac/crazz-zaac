@@ -95,7 +95,7 @@
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=react)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=20232A&color=E5289E&line=2596be&point=E1E8EB">
 
 
 
