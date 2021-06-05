@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href = "https://www.linkedin.com/in/rabin-bishwokarma/">Rabin Bishwokarma</a>(Crazz Zaac)</h1>
+<h1 align="center">Hi 👋 and नमस्ते (Namaste) 🙏 , I'm <a href = "https://www.linkedin.com/in/rabin-bishwokarma/">Rabin Bishwokarma</a>(Crazz Zaac)</h1>
 
 #### About Me
 - CSIT Undergrad from **Tribhuvan University**
