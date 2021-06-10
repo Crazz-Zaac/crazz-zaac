@@ -106,12 +106,9 @@
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabin-bishwokarma/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/r.alpha.919)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.rabinbk.com.np)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rabin-bishwokarma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/rabin-bishwokarma?trk=profile-badge">Rabin Bishwokarma</a></div>
-
 
 <a href="https://crazz-zaac.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://crazz-zaac.github.io/feed.xml" height="30" width="40"/></a>
 
