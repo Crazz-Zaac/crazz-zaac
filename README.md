@@ -87,12 +87,12 @@
 	<tr>
 	<td align='center' width="190">
 		<a href="https://www.numpy.org" target="_blank">
-			<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/>
+			<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
 		</a>
 	</td>
 	<td align='center' width="190">
 		<a href="https://www.pandas.pydata.org" target="_blank">
-			<img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" alt="pandas" width="40" height="40"/>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
 		</a>
 	</td>
 	</tr>
