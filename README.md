@@ -15,6 +15,7 @@
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
+* **[Medium](https://r-alpha919.medium.com/)**
 
 
 ### Languages and Tools I Use
