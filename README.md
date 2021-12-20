@@ -13,6 +13,8 @@
 - 🩸 Philosophy of life: **Per aspara, ad astra**
 - 📋 My Portfolio: **www.rabinbk.com.np**
 
+<a href="https://app.daily.dev/Rabin_BK"><img src="https://api.daily.dev/devcards/c911737e95bf4de28a061411ef8fce19.png?r=2i3" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
+
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
 
@@ -92,7 +94,7 @@
 	</td>
 	<td align='center' width="190">
 		<a href="https://www.pandas.pydata.org" target="_blank">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="60" height="60"/>
 		</a>
 	</td>
 	</tr>
