@@ -17,6 +17,8 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crazz-zaac/crazz-zaac/blob/master/devcard.svg" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
 
+![](https://komarev.com/ghpvc/?username=crazz-zaac&color=green)
+
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
 * **[Medium](https://r-alpha919.medium.com/)**
