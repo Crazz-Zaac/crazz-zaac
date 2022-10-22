@@ -15,9 +15,11 @@
 
 <!-- <a href="https://app.daily.dev/Rabin_BK"><img src="https://api.daily.dev/devcards/c911737e95bf4de28a061411ef8fce19.png?r=2i3" width="400" alt="Rabin Bishwokarma's Dev Card"/></a> -->
 
+![](https://komarev.com/ghpvc/?username=crazz-zaac&color=blue)
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crazz-zaac/crazz-zaac/blob/master/devcard.svg" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
 
-![](https://komarev.com/ghpvc/?username=crazz-zaac&color=green)
+
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
