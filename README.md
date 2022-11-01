@@ -19,7 +19,8 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crazz-zaac/crazz-zaac/blob/master/devcard.svg" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
 
-<a href="https://www.codewars.com/users/Crazz-Zaac/badges/large"></a>
+
+https://github-readme-codewars-stats.herokuapp.com/api/?username=Crazz-Zaac&card&colormode=dark_mode
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
