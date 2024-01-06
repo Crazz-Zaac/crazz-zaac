@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋 and नमस्ते (Namaste) 🙏 , I'm <a href = "https://www.linkedin.com/in/rabin-bishwokarma/">Rabin Bishwokarma</a></h1>
 
 #### About Me
+- MSc Data Science student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**
 - CSIT Undergrad from **Tribhuvan University**
 - Passionate about **Data Science and Machine Learning**
-- 🔭 I’m exploring **Data Science Tools**
-- 🌱 I’m currently learning **Deep Neural Networks**
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 🔭 I’m always exploring **Data Science Techniques and Tools**
+- 🌱 I’m currently learning **Mathematics as a foundation of Data Science**
+- 👯 I’m looking to collaborate on **Newer Data Science projects**
 - 💬 Ask me about **Basics of Data Science and Machine Learning, Python**
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: **r.alpha919@gmail.com**
-- ⚡ Fun fact: **I love Kung-Fu**
+- 📫 How to reach me: **rabinbk588@gmail.com**
+- ⚡ Fun fact: **I love Martial Arts, Kung-Fu and Nature**
 - 🩸 Philosophy of life: **Per aspara, ad astra**
 - 📋 My Portfolio: **www.rabinbk.com.np**
 
@@ -19,7 +20,8 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crazz-zaac/crazz-zaac/blob/master/devcard.svg" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=Crazz-Zaac&card&colormode=dark_mode)
+
+![Codewars](https://github.r2v.ch/codewars?user=Rabin BK&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
@@ -118,9 +120,6 @@
 
 
 [![Rabin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crazz-zaac&theme=react)](https://github.com/crazz-zaac/github-readme-activity-graph)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=20232a&color=29bde8&line=DA5B0B&point=E1E8EB">
-
 
 
 <div align="center">
