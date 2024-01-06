@@ -22,7 +22,6 @@
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Crazz-Zaac&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Crazz-Zaac&theme=default)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
