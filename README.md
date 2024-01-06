@@ -119,7 +119,11 @@
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=react)
 
 
+
 [![Rabin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crazz-zaac&theme=react)](https://github.com/crazz-zaac/github-readme-activity-graph)
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 <div align="center">
@@ -130,7 +134,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rabin-bishwokarma/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/r.alpha.919)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.rabinbk.com.np)
-
-<a href="https://crazz-zaac.github.io/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://crazz-zaac.github.io/feed.xml" height="30" width="40"/></a>
 
 </div>
