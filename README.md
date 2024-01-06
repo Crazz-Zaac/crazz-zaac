@@ -21,7 +21,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crazz-zaac/crazz-zaac/blob/master/devcard.svg" width="400" alt="Rabin Bishwokarma's Dev Card"/></a>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=Rabin%BK&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=Crazz-Zaac&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 ### Blogs and articles
 * **[www.rabinbk.com.np/blog/](http://www.rabinbk.com.np/blog/)**
