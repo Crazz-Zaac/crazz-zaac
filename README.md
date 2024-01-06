@@ -117,10 +117,9 @@
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=react)
 
 
+[![Rabin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crazz-zaac)](https://github.com/crazz-zaac/github-readme-activity-graph)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=20232a&color=29bde8&line=DA5B0B&point=E1E8EB">
-
-![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazz-zaac&show_icons=true&theme=radical)
 
 
 
