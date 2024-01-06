@@ -120,6 +120,8 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=crazz-zaac&bg_color=20232a&color=29bde8&line=DA5B0B&point=E1E8EB">
 
+![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=razz-zaac&show_icons=true&theme=radical)
+
 
 
 <div align="center">
