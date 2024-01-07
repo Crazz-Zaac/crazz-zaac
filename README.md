@@ -114,13 +114,9 @@
 
 ![Rabin's GitHub stats](https://github-readme-stats-iota-teal.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
 
-![Rabin's Top languages](https://github-readme-stats-iota-teal.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&hide=scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/crazz-zaac)
+[![Rabin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=crazz-zaac&hide=scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/crazz-zaac)
 
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=react)
-
-
 
 [![Rabin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crazz-zaac&theme=react)](https://github.com/crazz-zaac/github-readme-activity-graph)
 
