@@ -103,6 +103,7 @@
 </table>
 </p>
 <br>
+<a href="https://www.buymeacoffee.com/codingpiraa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![](https://komarev.com/ghpvc/?username=crazz-zaac&color=blue)
 
@@ -114,6 +115,8 @@
 ![Rabin's GitHub stats](https://github-readme-stats-iota-teal.vercel.app/api?username=crazz-zaac&show_icons=true&theme=react)
 
 ![Rabin's Top languages](https://github-readme-stats-iota-teal.vercel.app/api/top-langs?username=crazz-zaac&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=crazz-zaac&theme=algolia&show_icons=true)](https://github.com/crazz-zaac)
 
 ![Rabin's Github steak stats](https://github-readme-streak-stats.herokuapp.com/?user=crazz-zaac&theme=react)
 
