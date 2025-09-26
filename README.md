@@ -21,93 +21,102 @@
 * **[Medium](https://r-alpha919.medium.com/)**
 
 
-### Languages and Tools I Use
-<p>
-<table width="100">
-	<tr>
-		<td align='center' width="190">
-			<a href="https://www.cprogramming.com/" target="_blank">
-				<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://www.w3schools.com/cpp/" target="_blank">
-				<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://www.python.org" target="_blank">
-				<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://pytorch.org/" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://git-scm.com/" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://jekyllrb.com/" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td align='center' width="190">
-			<a href="https://www.mysql.com/" target="_blank">
-				<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://opencv.org/" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-			</a>  
-		</td>
-		<td align='center' width="190">
-			<a href="https://postman.com" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://heroku.com" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://scikit-learn.org/" target="_blank">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-			</a>
-		</td>
-		<td align='center' width="190">
-			<a href="https://www.tensorflow.org" target="_blank">
-				<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-			</a>
-		</td>
-	</tr>
-	<tr>
-	<td align='center' width="190">
-		<a href="https://www.numpy.org" target="_blank">
-			<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/>
-		</a>
-	</td>
-	<td align='center' width="190">
-		<a href="https://www.pandas.pydata.org" target="_blank">
-			<img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-logo.svg" alt="pandas" width="60" height="60"/>
-		</a>
-	</td>
-	</tr>
-	<td align='center' width="190">
-		<a href="https://www.pandas.pydata.org" target="_blank">
-			<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/>
-		</a>
-	</td>
-	</tr>
+### 🛠️ Languages and Tools I Use
+<p align="center">
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="140">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="140">
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="50" height="50"/>
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="140">
+      <a href="https://pandas.pydata.org" target="_blank">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-logo.svg" alt="pandas" width="50" height="50"/>
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="140">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+      </a>
+      <br>Scikit-Learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="140">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="140">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="140">
+      <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="140">
+      <a href="https://heroku.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="140">
+      <a href="https://jekyllrb.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="50" height="50"/>
+      </a>
+      <br>Jekyll
+    </td>
+  </tr>
 </table>
 </p>
+
 <br>
 <a href="https://www.buymeacoffee.com/codingpiraa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
