@@ -100,6 +100,12 @@
 		</a>
 	</td>
 	</tr>
+	<td align='center' width="190">
+		<a href="https://www.pandas.pydata.org" target="_blank">
+			<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/>
+		</a>
+	</td>
+	</tr>
 </table>
 </p>
 <br>
