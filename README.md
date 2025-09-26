@@ -7,7 +7,7 @@
 - 🔭 I’m always exploring **Data Science Techniques and Tools**
 - 🌱 I’m currently learning **Mathematics as a foundation of Data Science**
 - 👯 I’m looking to collaborate on **Newer Data Science projects**
-- 💬 Ask me about **Basics of Data Science and Machine Learning, Python**
+- 💬 Ask me about **Data Science and Machine Learning, Python**
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: **rabinbk588@gmail.com**
 - ⚡ Fun fact: **I love Martial Arts, Kung-Fu and Nature**
